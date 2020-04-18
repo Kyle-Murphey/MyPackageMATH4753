@@ -1,11 +1,11 @@
 Package: mypackage
 Type: Package
-Title: What the Package Does (Title Case)
+Title: This package contains functions I have pulled from other labs for usage.
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Kyle Murphey
+Maintainer: Kyle Murphey <kyle.r.murphey@ou.edu>
+Description: Contains 5 functions for personal use on my stat labs
+License: MIT
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.0.2
